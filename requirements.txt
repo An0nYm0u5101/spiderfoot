@@ -1,5 +1,5 @@
 adblockparser>=0.7
-dnspython>=1.16.0
+dnspython>=2.6.0rc1
 exifread>=2.1.2
 CherryPy>=18.0
 Mako>=1.0.4
