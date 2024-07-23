@@ -20,5 +20,8 @@ secure
 pyOpenSSL>=16.2.0
 python-docx>=0.8.10
 python-pptx>=0.6.18
-networkx==2.3
+networkx==2.6
 cryptography>=2.5
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
